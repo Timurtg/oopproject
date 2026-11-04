@@ -25,6 +25,6 @@
 
 ## Источники и ограничения
 
-Качество воздуха: [Open-Meteo Air Quality API](https://air-quality-api.open-meteo.com/v1/air-quality), модель CAMS Global / Copernicus. Погода: [Open-Meteo Historical Weather API](https://archive-api.open-meteo.com/v1/archive), реанализ ERA5 / ECMWF / Copernicus. Данные Open-Meteo распространяются по лицензии [CC BY 4.0](https://open-meteo.com/en/licence).
+Качество воздуха: [Open-Meteo Air Quality API](https://open-meteo.com/en/docs/air-quality-api), модель CAMS Global / Copernicus. Погода: [Open-Meteo Historical Weather API](https://open-meteo.com/en/docs/historical-weather-api), реанализ ERA5 / ECMWF / Copernicus. Данные Open-Meteo распространяются по лицензии [CC BY 4.0](https://open-meteo.com/en/licence).
 
 Качество воздуха представлено модельными оценками на сетке, а не показаниями датчиков на улицах. Флаги превышения относятся к рекомендациям ВОЗ, а не к российским нормативам.
