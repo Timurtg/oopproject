@@ -4,8 +4,8 @@
 
 ## Источники
 
-- Качество воздуха: [Open-Meteo Air Quality API](https://air-quality-api.open-meteo.com/v1/air-quality), модель CAMS Global / Copernicus.
-- Погода: [Open-Meteo Historical Weather API](https://archive-api.open-meteo.com/v1/archive), реанализ ERA5 / ECMWF / Copernicus.
+- Качество воздуха: [Open-Meteo Air Quality API](https://open-meteo.com/en/docs/air-quality-api), модель CAMS Global / Copernicus.
+- Погода: [Open-Meteo Historical Weather API](https://open-meteo.com/en/docs/historical-weather-api), реанализ ERA5 / ECMWF / Copernicus.
 
 Качество воздуха — модельные оценки на сетке, не измерения городских датчиков. Использование данных Open-Meteo регулируется лицензией CC BY 4.0.
 
